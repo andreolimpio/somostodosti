@@ -1,7 +1,8 @@
----------------
+------------------------------------------
 SOMOS TODOS T.I.
----------------
+------------------------------------------
 Aula de Programação Web
 Assunto: Conectividade com banco de dados
 Professor André Olímpio
-----------------------
+São José dos Campos / SP (BRASIL)
+------------------------------------------
