@@ -1,8 +1,7 @@
 ---------------
-SUPER GEEKS
+SOMOS TODOS T.I.
 ---------------
 Aula de Programação Web
-16/10/2021
+Assunto: Conectividade com banco de dados
 Professor André Olímpio
-Aluno: Pietro Rugai
 ----------------------
